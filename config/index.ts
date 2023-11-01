@@ -7,10 +7,11 @@ export const APP_INFO: AppInfo = {
   description: '',
   copyright: '',
   privacy_policy: '',
-  default_language: 'zh-Hans',
+  default_language: 'en',
 }
 
 export const isShowPrompt = true
+
 export const promptTemplate = ''
 
 export const API_PREFIX = '/api'
